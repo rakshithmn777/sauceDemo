@@ -1,0 +1,12 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="calculations.tests2.reports.predefined_reports.test_ee_history_report.TestEmployeeHistoryReport.current_date" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
